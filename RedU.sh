@@ -135,7 +135,7 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-                ${ORANGE}╦═╗  ┌─┐  ┌┬   ╦ ╦
+                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
                 ${ORANGE}╠╦╝  ├┤    ║║  ║ ║
                 ${ORANGE}╩╚═  └─┘  ─┴┘  ╚═╝
 
@@ -147,8 +147,8 @@ banner() {
 banner_small() {
 	cat <<- EOF
        ${BLUE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
-       ${BLUE}╠╦╝  ├    ║ ║  ║ ║
-       ${BLUE}╩╚═  └─┘  ─┴┘  ╚═
+       ${BLUE}╠╦╝  ├     ║║  ║ ║
+       ${BLUE}╩╚═  └─┘  ─┴┘  ╚═╝
 	EOF
 }
 
