@@ -1,7 +1,8 @@
 <!-- RedUphisher -->
 
-<p align="center">
-  <img src=".imgs/logo.png">
+<p>
+  RedUphisher
+
 </p>
 
 <p align="center">
