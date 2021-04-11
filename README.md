@@ -1,21 +1,21 @@
-<!-- RedUphisher -->
+<!-- Zphisher -->
 
 <p align="center">
   <img src=".imgs/logo.png">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/mr-chief/RedUphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/mr-chief/RedUphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/mr-chief/RedUphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zhphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-RedU-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
@@ -38,26 +38,26 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/mr-chief/RedUphisher
+$ git clone git://github.com/htr-tech/zphisher.git
 ```
 
-- Change to cloned directory and run `RedU.sh` -
+- Change to cloned directory and run `zphisher.sh` -
 ```
-$ cd RedUphisher
-$ bash RedU.sh
+$ cd zphisher
+$ bash zphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `RedUphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
 ### Run on Docker
 ```
-$ docker pull mr-chief/RedUphisher
-$ docker run --rm -it mr-chief/RedUphisher
+$ docker pull htrtech/zphisher
+$ docker run --rm -it htrtech/zphisher
 ```
 
 ### Dependencies
 
-**`RedUphisher`** requires following programs to run properly - 
+**`Zphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
@@ -76,9 +76,17 @@ $ docker run --rm -it mr-chief/RedUphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
+### Special Thanks :
+
+- [**Aditya Shakya**](https://github.com/adi1090x)
+- [**TheLinuxChoice**](https://twitter.com/linux_choice)
+- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
+- [**Moises Tapia**](https://github.com/MoisesTapia)
+
+
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/mr-chief" target="_blank"><img src="https://img.shields.io/badge/Github-RedU-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/alone__samir" target="_blank"><img src="https://img.shields.io/badge/IG-%40alone__samir-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/RedUhackers" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
