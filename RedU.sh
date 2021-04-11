@@ -135,8 +135,8 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦   ╦
-                ${ORANGE}╠╦╝  ├┤      ║║  ║   ║
+                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
+                ${ORANGE}╠╦╝  ├┤    ║║  ║ ║
                 ${ORANGE}╩╚═  └─┘  ─┴┘  ╚═╝
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by RedU (samir ahmad))${WHITE}
@@ -146,8 +146,8 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-       ${BLUE}╦═╗  ┌─┐  ┌┬┐  ╦   ╦
-       ${BLUE}╠╦╝  ├         ║║  ║   ║
+       ${BLUE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
+       ${BLUE}╠╦╝  ├     ║║  ║ ║
        ${BLUE}╩╚═  └─┘  ─┴┘  ╚═╝
 	EOF
 }
