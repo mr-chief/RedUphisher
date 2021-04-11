@@ -79,7 +79,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  RedU (https://github.com/mr-redu))
 ##
 
 
@@ -135,8 +135,7 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
+                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
                 ${ORANGE}╠╦╝  ├     ││  ║ ║
                 ${ORANGE}╩╚═  └─┘  ─┴┘  ╚═╝
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
