@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   RedUphisher 	: 	Automated Phishing Tool
-##   Author      	: 	SAMIR AHMAD
-##   Version    	: 	2.2
-##   Github 	        : 	https://github.com/
+##   Author          	: 	SAMIR AHMAD
+##   Version    	        : 	2.2
+##   Github                 :      https://github.com/mr-chief
 
 ## If you Copy Then Give the credits :)
 
@@ -135,8 +135,8 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
-                ${ORANGE}╠╦╝  ├┤    ║║  ║ ║
+                ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦   ╦
+                ${ORANGE}╠╦╝  ├┤      ║║  ║   ║
                 ${ORANGE}╩╚═  └─┘  ─┴┘  ╚═╝
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by RedU (samir ahmad))${WHITE}
@@ -146,8 +146,8 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-       ${BLUE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
-       ${BLUE}╠╦╝  ├     ║║  ║ ║
+       ${BLUE}╦═╗  ┌─┐  ┌┬┐  ╦   ╦
+       ${BLUE}╠╦╝  ├         ║║  ║   ║
        ${BLUE}╩╚═  └─┘  ─┴┘  ╚═╝
 	EOF
 }
@@ -242,8 +242,8 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}SAMIR ANSARI ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN}Author   ${RED}:  ${ORANGE}SAMIR ANSARI ${RED}[ ${ORANGE}RedU${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/mr-chief
 		${GREEN}Social   ${RED}:  ${CYAN}https://instagram.con/alone__samir
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
