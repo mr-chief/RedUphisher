@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/mr-chief/RedUphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/mr-chief/RedUphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/mr-chief/RedUphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/htr-tech/zhphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/
+$ git clone git://github.com/mr-chief/RedUphisher
 ```
 
 - Change to cloned directory and run `RedU.sh` -
@@ -51,8 +51,8 @@ $ bash RedU.sh
 
 ### Run on Docker
 ```
-$ docker pull 
-$ docker run --rm -it 
+$ docker pull mr-chief/RedUphisher
+$ docker run --rm -it mr-chief/RedUphisher
 ```
 
 ### Dependencies
@@ -78,7 +78,7 @@ $ docker run --rm -it
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/mr-chief" target="_blank"><img src="https://img.shields.io/badge/Github-RedU-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/alone__samir" target="_blank"><img src="https://img.shields.io/badge/IG-%40alone__samir-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/RedUhackers" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
