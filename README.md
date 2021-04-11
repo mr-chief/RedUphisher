@@ -79,7 +79,7 @@ $ docker run --rm -it mrchief/RedUphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/mr-chief" target="_blank"><img src="https://img.shields.io/badge/Github-MR-CHIEF-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/mr-chief" target="_blank"><img src="https://img.shields.io/badge/Github-mr-chief-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/alone__samir" target="_blank"><img src="https://img.shields.io/badge/IG-%40Mr. Chief-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/RedUhackers" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
