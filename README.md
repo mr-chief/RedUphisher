@@ -74,7 +74,7 @@ $ docker run --rm -it mrchief/RedUphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="image(11).jpeg"/>
 </p>
 
 ### Find Me on :
