@@ -1,4 +1,4 @@
-#!/bin/bash
+I#!/bin/bash
 
 ##   RedUphisher 	: 	Automated Phishing Tool
 ##   Author      	: 	SAMIR AHMAD 
@@ -138,7 +138,7 @@ banner() {
                 ${ORANGE}╦═╗  ┌─┐  ┌┬┐  ╦ ╦
                 ${ORANGE}╠╦╝  ├     ││  ║ ║
                 ${ORANGE}╩╚═  └─┘  ─┴┘  ╚═╝
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by mr-chief (samir ahmad)${WHITE}
 	EOF
 }
 
