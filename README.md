@@ -44,8 +44,9 @@ $ git clone git://github.com/mr-chief/RedUphisher
 
 - Change to cloned directory and run `RedU.sh` -
 ```
-$ cd RedUphisher
-$ bash RedU3.sh
+$ cd redu
+$ bash redu.sh
+
 ```
 
 - On first launch, It'll install the dependencies and that's it. `RedUphisher` is installed.
